@@ -7,6 +7,6 @@ Meu Nome é Francisco Caue
 - Utilizando esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - Tenho alguns Projetos Html e Css.
 
+![](https://media.tenor.com/Wf1xk_DtaYoAAAAM/koko-the-clown-dancing.gif)
 
-![image](https://github.com/user-attachments/assets/9add271a-9f39-46ff-8490-dfe08e531d2e)
 
